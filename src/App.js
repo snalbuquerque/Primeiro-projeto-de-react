@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Title text="Meu primeiro Projeto React"/>
+        <Title text="Meus filmes favoritos"/>
         <List/>
       </header>
     </div>
