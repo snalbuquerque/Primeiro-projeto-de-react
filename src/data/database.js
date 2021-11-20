@@ -19,3 +19,5 @@ const movies = [
     "id":"3",
   }
 ]
+
+export default movies
